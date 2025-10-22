@@ -23,12 +23,12 @@ Sou uma estudante interessada e inserida no meio da tecnologia desde muito peque
   <tr>
     <td>
       <a href="https://github.com/joana-js">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoanaPixel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joana-js&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/joana-js">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaPixel&layout=compact&langs_count=16&theme=dracula"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joana-js&layout=compact&langs_count=16&theme=dracula"/>
       </a>
     </td>
   </tr>
