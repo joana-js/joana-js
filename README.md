@@ -27,7 +27,7 @@ Sou uma estudante interessada e inserida no meio da tecnologia desde muito peque
       </a>
     </td>
     <td>
-      <a href="https://github.com/JoanaPixel">
+      <a href="https://github.com/joana-js">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaPixel&layout=compact&langs_count=16&theme=dracula"/>
       </a>
     </td>
