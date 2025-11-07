@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://tenor.com/pt-PT/view/javier-guerrero-mew-pokemon-nintendo-pixel-game-freak-pocket-monsters-gif-1151050818605058867" alt="Magical Girl" width="500">
+</p>
+
 ## Bem-vindo(a) ao meu perfil! Me chamo Joana
 
 
