@@ -1,6 +1,4 @@
-
-<p align="center">
-<div class="tenor-gif-embed" data-postid="1151050818605058867" data-share-method="host" data-aspect-ratio="1.45833" data-width="100%"><a href="https://tenor.com/view/javier-guerrero-mew-pokemon-nintendo-pixel-game-freak-pocket-monsters-gif-1151050818605058867">Javier Guerrero Mew Pokemon Nintendo Pixel Sticker</a>from <a href="https://tenor.com/search/javier+guerrero-stickers">Javier Guerrero Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></p>
+<div class="tenor-gif-embed" data-postid="1151050818605058867" data-share-method="host" data-aspect-ratio="1.45833" data-width="100%"><a href="https://tenor.com/view/javier-guerrero-mew-pokemon-nintendo-pixel-game-freak-pocket-monsters-gif-1151050818605058867">Javier Guerrero Mew Pokemon Nintendo Pixel Sticker</a>from <a href="https://tenor.com/search/javier+guerrero-stickers">Javier Guerrero Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Bem-vindo(a) ao meu perfil! Me chamo Joana
 
