@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Welcome to Joana's GitHub" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joana-jensen-schifter-%F0%9F%A7%A9-614360291/">
@@ -18,12 +21,23 @@
 <br>
 
 <table align="center">
-<tr>
-<td width="65%">
+  <tr>
+    <td width="65%">
 
 <p align="center">
-Hi! I'm <strong>Joana Jensen Schifter</strong>, a Software Engineering student and developer currently working at <strong>WEG</strong>.
+Hi! I'm <strong>Joana Jensen Schifter</strong>, a <strong>Software Engineering student</strong> and developer currently working at <strong>WEG</strong>.
+</p>
+
+<p align="center">
 I enjoy learning new technologies, building clean interfaces, working with databases, and creating solutions that connect frontend, backend and real-world business needs.
+</p>
+
+<p align="center">
+  🔭 Currently working at <strong>WEG</strong><br>
+  🌱 Currently learning <strong>Full-Stack Development</strong><br>
+  🤝 Looking to improve my <strong>Backend Development</strong> skills<br>
+  👯 Open to collaborate on new projects<br>
+  💬 Ask me about programming, databases and web development
 </p>
 
 <p align="center">
@@ -35,8 +49,9 @@ I enjoy learning new technologies, building clean interfaces, working with datab
 <td width="35%" align="center">
 
 <img 
-  src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFzbjI0NWt3OW9jeXUwMGN5Z3JkM3F5cXZiZGYzaHd5M3MwY2ljMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdyb3hjeXppYXk1dm1ucW5samI2NDRiOWF2MXdiaDhwNW80cGQ5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZvqmiFLRSCYYCMJaoa/giphy.gif)" 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtpNWRmbm5jamNub2w2dmZ6OWdlNmM1ZjV6eTRhbTluemdmdGt6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZvqmiFLRSCYYCMJaoa/giphy.gif" 
   width="180px"
+  alt="Animated character"
 />
 
 </td>
@@ -91,20 +106,6 @@ I enjoy learning new technologies, building clean interfaces, working with datab
 
 ---
 
-<h3 align="center">⌁ Statistics</h3>
-
-<br>
-
-<p align="center">
-  />
-  <img 
-    height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=joana-js&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff"
-  />
-</p>
-
----
-
 <h3 align="center">⌁ Contribution Graph</h3>
 
 <br>
@@ -113,6 +114,15 @@ I enjoy learning new technologies, building clean interfaces, working with datab
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=joana-js&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=false&border_color=ffffff&title_color=ffffff"
     alt="Joana's GitHub Contribution Graph"
+  />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joana-js&style=flat-square&color=000000&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting my profile!</strong>
+</p>
