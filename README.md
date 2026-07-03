@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Welcome to Joana's Github!</h1>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joana-jensen-schifter-%F0%9F%A7%A9-614360291/">
