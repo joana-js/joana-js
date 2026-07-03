@@ -1,9 +1,3 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,100:1a1a1a&text=Welcome%20to%20Joana's%20GitHub&fontColor=ffffff&fontSize=32&fontAlignY=38&desc=%3C%2F%3E&descAlignY=55&descSize=20"
-    alt="Welcome to Joana's GitHub"
-  />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joana-jensen-schifter-%F0%9F%A7%A9-614360291/">
