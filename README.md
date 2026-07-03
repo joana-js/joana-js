@@ -27,14 +27,6 @@ I enjoy learning new technologies, building clean interfaces, working with datab
 </p>
 
 <p align="center">
-  🔭 Currently working at <strong>WEG</strong><br>
-  🌱 Currently learning <strong>Full-Stack Development</strong><br>
-  🤝 Looking to improve my <strong>Backend Development</strong> skills<br>
-  👯 Open to collaborate on new projects<br>
-  💬 Ask me about programming, databases and web development
-</p>
-
-<p align="center">
   <strong>🎓 Software Engineering Student</strong><br>
   <em>First semester student</em>
 </p>
@@ -43,7 +35,7 @@ I enjoy learning new technologies, building clean interfaces, working with datab
 <td width="35%" align="center">
 
 <img 
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFzbjI0NWt3OW9jeXUwMGN5Z3JkM3F5cXZiZGYzaHd5M3MwY2ljMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" 
+  src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFzbjI0NWt3OW9jeXUwMGN5Z3JkM3F5cXZiZGYzaHd5M3MwY2ljMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdyb3hjeXppYXk1dm1ucW5samI2NDRiOWF2MXdiaDhwNW80cGQ5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZvqmiFLRSCYYCMJaoa/giphy.gif)" 
   width="180px"
 />
 
@@ -104,20 +96,10 @@ I enjoy learning new technologies, building clean interfaces, working with datab
 <br>
 
 <p align="center">
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=joana-js&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=true"
   />
   <img 
     height="165"
     src="https://github-readme-streak-stats.herokuapp.com/?user=joana-js&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff"
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joana-js&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false"
   />
 </p>
 
