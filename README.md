@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Welcome to Joana's GitHub" width="100%" />
+  <h1>Welcome to Joana's Github!</h1>
 </p>
 
 <p align="center">
@@ -115,14 +115,4 @@ I enjoy learning new technologies, building clean interfaces, working with datab
     src="https://github-readme-activity-graph.vercel.app/graph?username=joana-js&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=false&border_color=ffffff&title_color=ffffff"
     alt="Joana's GitHub Contribution Graph"
   />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joana-js&style=flat-square&color=000000&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <strong>Thanks for visiting my profile!</strong>
 </p>
