@@ -14,19 +14,6 @@ Hi! I'm <strong>Joana Jensen Schifter</strong>, a <strong>Software Engineering s
 I enjoy learning new technologies, building clean interfaces, working with databases, and creating solutions that connect frontend, backend and real-world business needs.
 </p>
 
-<p align="center">
-  🔭 Currently working at <strong>WEG</strong><br>
-  🌱 Currently learning <strong>Full-Stack Development</strong><br>
-  🤝 Looking to improve my <strong>Backend Development</strong> skills<br>
-  👯 Open to collaborate on new projects<br>
-  💬 Ask me about programming, databases and web development
-</p>
-
-<p align="center">
-  <strong>🎓 Software Engineering Student</strong><br>
-  <em>First semester student</em>
-</p>
-
 </td>
 <td width="35%" align="center">
 
