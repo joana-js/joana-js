@@ -113,15 +113,6 @@ I enjoy learning new technologies, building clean interfaces, working with datab
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=joana-js&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=false&border_color=ffffff&title_color=ffffff"
     alt="Joana's GitHub Contribution Graph"
-  />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joana-js&style=flat-square&color=000000&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <strong>Thanks for visiting my profile!</strong>
-</p>
