@@ -1,19 +1,3 @@
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/joana-jensen-schifter-%F0%9F%A7%A9-614360291/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:joanajensenschifter24@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/joana-js">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 <h3 align="center">♙ About me</h3>
 
 <br>
@@ -114,3 +98,20 @@ I enjoy learning new technologies, building clean interfaces, working with datab
     alt="Joana's GitHub Contribution Graph"
   />
 </p>
+
+---
+
+<h3 align="center">Contact Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joana-jensen-schifter-%F0%9F%A7%A9-614360291/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joanajensenschifter24@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/joana-js">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
